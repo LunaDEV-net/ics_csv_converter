@@ -1,6 +1,6 @@
 ### 0. Download Python & git
 ```zsh
-brew install git
+brew install git python@3.13
 ```
 
 ### 1. Clone localy using git
